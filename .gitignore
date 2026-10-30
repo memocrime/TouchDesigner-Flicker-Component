@@ -1,0 +1,6 @@
+# TouchDesigner Files
+logs/
+Backup/
+
+# Only allows the main .toe instead of versioned saves 
+LiDAR Toolkit.*.toe 
