@@ -3,4 +3,4 @@ logs/
 Backup/
 
 # Only allows the main .toe instead of versioned saves 
-LiDAR Toolkit.*.toe 
+Flicker Component.*.toe 
